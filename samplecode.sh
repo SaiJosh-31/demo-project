@@ -1,1 +1,1 @@
-echo "Welcome To The Demo Project."
+echo "welcome to demo project and get started"
